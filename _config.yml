@@ -1,7 +1,7 @@
 timezone:    Europe/Berlin
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
-baseurl:     "/"
+baseurl:     "/universaldatamesh"
 highlighter: ""
 markdown:    kramdown
 lsi:         false
@@ -19,7 +19,7 @@ kramdown:
 ## personalize your slide show
 title:       Universal Data Mesh
 author:      Pavan Keshavamurthy
-description: Domain Driven IT and Data Convergence
+description: Domain Driven Operational and Analytical Data Convergence
 
 sass:
   style:     :compressed
